@@ -2,9 +2,8 @@
 TERMINAL MULTIPLEXER
 ## Installation
 ### Linux
-- Make a backup of your current Neovim files:
+- Make a backup of your current .tmux,conf files: (if it's been existed)
 ```sh
-# required
 mv ~/.tmux.conf{,.bak}
 
 ```
@@ -20,3 +19,11 @@ tmux
 
 ## Guide
 For The Guide Read The 'tmux note' File!
+
+## Youtube Channel Recommendation
+- my config inspiration :
+https://youtu.be/DzNmUNvnB04?si=ADyIfi4ofJN_SsvJ
+- watch this for increase your motivation : 
+https://youtu.be/nTqu6w2wc68?si=MTXMhf9FO1YhGqYB
+
+THERE ARE BASIC TUTORIAL ALSO INSIDE THOSE VIDEOS, ENJOY!
