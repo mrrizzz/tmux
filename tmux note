@@ -1,0 +1,44 @@
+Session Management
+
+    Prefix: Ctrl-b (default)
+    Create New Session: Prefix + :new-session or Prefix + s
+    Detach from Session: Prefix + d
+    List Sessions: Prefix + s
+    Attach to Last Session: tmux a
+
+Window Management
+
+    Create New Window: Prefix + c
+    Rename Window: Prefix + ,
+    Next Window: Prefix + n
+    Previous Window: Prefix + p
+    Select Window by Number: Prefix + (0-9)
+    Close Window: Prefix + &
+
+Pane Management
+
+    Split Horizontally: Prefix + -
+    Split Vertically: Prefix + |
+    Switch Pane: Prefix + o
+    Kill Pane: Prefix + x
+    Resize Pane: Prefix + Arrow Keys
+
+Navigation
+
+    Move to Next Window: Prefix + n
+    Move to Previous Window: Prefix + p
+    Switch Pane: Prefix + o
+    Select Pane: Prefix + q, followed by pane number
+
+Copy Mode
+
+    Enter Copy Mode: Prefix + [
+    Scroll Up/Down: Arrow Keys
+    Exit Copy Mode: q
+
+Miscellaneous
+
+    List Key Bindings: Prefix + ?
+    Reload Config: Prefix + r OR :source-file ~/.tmux.conf
+
+FOR THE COMPLETE KEYBINDINGS, PLEASE READ THE DOCUMENTATION, DONT BE LAZY PLS!
